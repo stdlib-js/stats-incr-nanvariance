@@ -167,14 +167,6 @@ console.log( accumulator() );
 
 <section class="related">
 
-* * *
-
-## See Also
-
--   <span class="package-name">[`@stdlib/stats-incr/variance`][@stdlib/stats/incr/variance]</span><span class="delimiter">: </span><span class="description">compute an unbiased sample variance incrementally.</span>
--   <span class="package-name">[`@stdlib/stats-incr/mean`][@stdlib/stats/incr/mean]</span><span class="delimiter">: </span><span class="description">compute an arithmetic mean incrementally.</span>
--   <span class="package-name">[`@stdlib/stats-incr/nansum`][@stdlib/stats/incr/nansum]</span><span class="delimiter">: </span><span class="description">compute a sum incrementally, ignoring NaN values.</span>
-
 </section>
 
 <!-- /.related -->
@@ -254,12 +246,6 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [sample-variance]: https://en.wikipedia.org/wiki/Variance
 
 <!-- <related-links> -->
-
-[@stdlib/stats/incr/variance]: https://github.com/stdlib-js/stats-incr-variance
-
-[@stdlib/stats/incr/mean]: https://github.com/stdlib-js/stats-incr-mean
-
-[@stdlib/stats/incr/nansum]: https://github.com/stdlib-js/stats-incr-nansum
 
 <!-- </related-links> -->
 
