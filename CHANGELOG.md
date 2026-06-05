@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-31)
+## Unreleased (2026-06-05)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8e32423`](https://github.com/stdlib-js/stdlib/commit/8e32423156316049de0700cfcb4d3da2b173f008) - **refactor:** align TypeScript declarations across stats packages [(#12512)](https://github.com/stdlib-js/stdlib/pull/12512) _(by Philipp Burckhardt)_
 -   [`da0bf4e`](https://github.com/stdlib-js/stdlib/commit/da0bf4e0579edef12373a0e3c4eadbcbf402e192) - **docs:** update related packages sections [(#12237)](https://github.com/stdlib-js/stdlib/pull/12237) _(by stdlib-bot, Athan Reines)_
 -   [`09a1c9b`](https://github.com/stdlib-js/stdlib/commit/09a1c9badf86164ab2cab6d50e68de2fe623b812) - **feat:** add `stats/incr/nanvariance` [(#9214)](https://github.com/stdlib-js/stdlib/pull/9214) _(by Nirmal Jyoti Biswas, Philipp Burckhardt)_
 
